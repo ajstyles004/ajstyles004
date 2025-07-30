@@ -6,10 +6,6 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajstyles004/ajstyles004/main/assets/cyberpunk-cover.png" height="180" alt="cyberpunk cover" />
-</p>
-
 ## ⚡ About Me
 
 * 👨‍💻 Developer focused on Java, Python, and Full Stack Development
@@ -55,12 +51,6 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
   <a href="https://twitter.com/ajstyles_04">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave4.svg" alt="wave" width="100%" />
 </p>
 
 > *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome.*
