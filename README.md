@@ -1,20 +1,20 @@
 # Hi there, I'm Aditya 👋
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=dracula&hide_border=true" />
   </a>
 </p>
 
 A passionate developer from Kolkata, India 🇮🇳, on a journey to build meaningful and efficient software. Welcome to my digital workshop!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/aditya-jha004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+  <a href="https://twitter.com/ajstyles_04" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adityajha0456@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
