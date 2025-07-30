@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aditya!
 
-🎯 Passionate developer on a journey to build meaningful software.
+�෼F🌟 Passionate developer on a journey to build meaningful software.
 
 Welcome to my GitHub – home to my personal projects, experiments, and open-source collaborations.
 
@@ -11,14 +11,14 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 * 👨‍💻 Developer focused on Java, Python, and Full Stack Development
 * 📱 Exploring Android development using Java
 * 🌍 Based in Kolkata, India 🇮🇳
-* 📧 Reach me at: [adityajha0456@gmail.com](mailto:adityajha0456@gmail.com)
 * 🌱 Currently learning backend systems and clean code architecture
-* 🎯 Obsessed with writing efficient, scalable, and readable code
+* �෼F🇠 Obsessed with writing efficient, scalable, and readable code
 * ✨ Always experimenting with new technologies and side projects
+* * 📧 Reach me at: [adityajha0456@gmail.com](mailto:adityajha0456@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,docker&theme=dark" />
@@ -34,7 +34,7 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajstyles004&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajstyles004&theme=github-compact&hide_border=true&color=00ff00&line=00ff00&point=00ff00" />
 </p>
 
 ---
