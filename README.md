@@ -4,6 +4,10 @@
 
 Welcome to my GitHub – home to my personal projects, experiments, and open-source collaborations.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&color=9AFDFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya;Java+%7C+Python+%7C+Full+Stack+Developer;Always+learning+new+tech!;Let's+build+something+awesome!" alt="Typing SVG" />
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -42,14 +46,6 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajstyles004&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 * 📧 [Email](mailto:adityajha0456@gmail.com)
@@ -57,5 +53,13 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 * 🐦 [Twitter/X](https://twitter.com/ajstyles_04)
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" alt="coder gif" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave4.svg" alt="wave" width="100%" />
+</p>
 
 > *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome.*
