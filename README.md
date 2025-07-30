@@ -1,73 +1,78 @@
-# 👋 Hi there, I'm Aditya!
-
-🎯 Passionate developer on a journey to build meaningful software.
-
-Welcome to my GitHub – home to my personal projects, experiments, and open-source collaborations.
-
----
-
+# Hi there, I'm Aditya 👋
 <p align="center">
-  <img src="https://media.tenor.com/Z-3rjX6zjv4AAAAC/cyberpunk-neon.gif" height="200" alt="cyberpunk animation" />
-</p>
-
-## ⚡ About Me
-
-* 👨‍💻 Developer focused on Java, Python, and Full Stack Development
-* 📱 Exploring Android development using Java
-* 🌍 Based in Kolkata, India 🇮🇳
-* 🌱 Currently learning backend systems and clean code architecture
-* 🎯 Obsessed with writing efficient, scalable, and readable code
-* ✨ Always experimenting with new technologies and side projects
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajstyles004&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajstyles004&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajstyles004&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:adityajha0456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" />
   </a>
-  <a href="https://linkedin.com/in/aditya-jha004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</p>
+
+A passionate developer from Kolkata, India 🇮🇳, on a journey to build meaningful and efficient software. Welcome to my digital workshop!
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/ajstyles_04">
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/_QZvhvZEOZkAAAAd/cyberpunk-glitch.gif" height="160" alt="cyberpunk glitch" />
+### ## 🚀 About Me
+
+* 👨‍💻 Full-stack developer with a strong focus on **Java** and **Python**.
+* 📱 Currently exploring native **Android Development** to bring ideas to life on mobile.
+* 🌱 Focused on mastering **backend systems**, **design patterns**, and **clean code architecture**.
+* 🎯 Passionate about writing efficient, scalable, and elegant code.
+* ✨ Always experimenting with new technologies and building fun side projects.
+
+---
+
+### ## 🛠️ My Tech Stack
+
+Here are the technologies I work with.
+
+#### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave4.svg" alt="wave" width="100%" />
+#### **Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=android-studio&logoColor=white" alt="XML"/>
 </p>
 
-> *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome.*
+#### **Databases & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+### ## 📈 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" />
+  </a>
+</p>
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something awesome together!
