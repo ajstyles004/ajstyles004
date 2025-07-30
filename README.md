@@ -4,11 +4,11 @@
 
 Welcome to my GitHub – home to my personal projects, experiments, and open-source collaborations.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&color=9AFDFF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya;Java+%7C+Python+%7C+Full+Stack+Developer;Always+learning+new+tech!;Let's+build+something+awesome!" alt="Typing SVG" />
-</p>
-
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/Z-3rjX6zjv4AAAAC/cyberpunk-neon.gif" height="200" alt="cyberpunk animation" />
+</p>
 
 ## ⚡ About Me
 
@@ -23,13 +23,13 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
@@ -48,14 +48,22 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 
 ## 📫 Connect with Me
 
-* 📧 [Email](mailto:adityajha0456@gmail.com)
-* 💼 [LinkedIn](https://linkedin.com/in/aditya-jha004)
-* 🐦 [Twitter/X](https://twitter.com/ajstyles_04)
+<p align="center">
+  <a href="mailto:adityajha0456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/aditya-jha004">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ajstyles_04">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="120" alt="coder gif" />
+  <img src="https://media.tenor.com/_QZvhvZEOZkAAAAd/cyberpunk-glitch.gif" height="160" alt="cyberpunk glitch" />
 </p>
 
 <p align="center">
