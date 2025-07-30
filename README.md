@@ -7,19 +7,18 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" height="180" alt="cyberpunk animation" />
+  <img src="https://raw.githubusercontent.com/ajstyles004/ajstyles004/main/assets/cyberpunk-cover.png" height="180" alt="cyberpunk cover" />
 </p>
 
 ## ⚡ About Me
 
-```diff
-- 👨‍💻 Developer focused on Java, Python, and Full Stack Development
-- 📱 Exploring Android development using Java
-- 🌍 Based in Kolkata, India 🇮🇳
-- 🌱 Currently learning backend systems and clean code architecture
-- 🎯 Obsessed with writing efficient, scalable, and readable code
-- ✨ Always experimenting with new technologies and side projects
-```
+* 👨‍💻 Developer focused on Java, Python, and Full Stack Development
+* 📱 Exploring Android development using Java
+* 🌍 Based in Kolkata, India 🇮🇳
+* 📧 Reach me at: [adityajha0456@gmail.com](mailto:adityajha0456@gmail.com)
+* 🌱 Currently learning backend systems and clean code architecture
+* 🎯 Obsessed with writing efficient, scalable, and readable code
+* ✨ Always experimenting with new technologies and side projects
 
 ---
 
@@ -59,10 +58,6 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kHcQZ4Jt9GqZQ2C2m7/giphy.gif" height="160" alt="cyberpunk glitch" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave4.svg" alt="wave" width="100%" />
