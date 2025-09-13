@@ -12,7 +12,6 @@ Welcome to my GitHub – home to my personal projects, experiments, and open-sou
 * 📱 Exploring Android development using Java
 * 🌍 Based in Kolkata, India 🇮🇳
 * 🌱 Currently learning backend systems and clean code architecture
-* �෼F🇠 Obsessed with writing efficient, scalable, and readable code
 * ✨ Always experimenting with new technologies and side projects
 * * 📧 Reach me at: [adityajha0456@gmail.com](mailto:adityajha0456@gmail.com)
 
