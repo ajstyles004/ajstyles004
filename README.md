@@ -63,12 +63,12 @@ Developer based in **Kolkata, India**, building practical software with a focus 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajstyles004&show_icons=true&theme=dark&hide_border=true&title_color=F4C95D&icon_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" height="165" />
-<img src="https://streak-stats.demolab.com/?user=ajstyles004&theme=dark&hide_border=true&background=0F172A&ring=F4C95D&fire=F4C95D&currStreakLabel=F4C95D&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ajstyles004&show_icons=true&theme=dark&hide_border=true&title_color=F4C95D&icon_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ajstyles004&show=streak&theme=dark&hide_border=true&title_color=F4C95D&icon_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" height="165" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=dark&hide_border=true&title_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=dark&hide_border=true&title_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" height="165" />
 
 </div>
 
