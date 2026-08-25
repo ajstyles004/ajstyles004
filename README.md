@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=700&color=F4C95D&center=true&vCenter=true&width=620&lines=Java+Developer;Python+Developer;Full+Stack+Builder;Android+%2B+Backend+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=700&color=F4C95D&center=true&vCenter=true&width=620&lines=Java+Developer;Full+Stack+Builder;Android+%2B+Backend+Engineer" />
 
 <br/><br/>
 
@@ -62,12 +62,12 @@ Developer based in **Kolkata, India**, building practical software with a focus 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajstyles004&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=F4C95D&icon_color=F4C95D&text_color=CBD5E1&bg_color=00000000" height="180" />
-<img src="https://streak-stats.demolab.com/?user=ajstyles004&theme=transparent&hide_border=true&ring=F4C95D&fire=F4C95D&currStreakLabel=F4C95D&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajstyles004&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=F4C95D&icon_color=F4C95D&text_color=CBD5E1&bg_color=0F172A" height="180" />
+<img src="https://streak-stats.demolab.com/?user=ajstyles004&theme=dark&hide_border=true&background=0F172A&ring=F4C95D&fire=F4C95D&currStreakLabel=F4C95D&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=transparent&hide_border=true&title_color=F4C95D&text_color=CBD5E1&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=dark&hide_border=true&title_color=F4C95D&text_color=CBD5E1&bg_color=0F172A" />
 
 </div>
 
