@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=220&section=header&text=Aditya%20Jha&fontSize=52&fontColor=F4C95D&fontAlignY=38&desc=Java%20%C2%B7%20Python%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F172A&height=220&section=header&text=Aditya%20Jha&fontSize=52&fontColor=F4C95D&fontAlignY=38&desc=Java%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
 
 <br/>
 
@@ -9,9 +9,10 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0F172A" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A" />
 <img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white&labelColor=0F172A" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F172A" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0F172A" />
 
 <br/>
 
@@ -31,13 +32,13 @@
 <table align="center" width="90%">
 <tr><td>
 
-Developer based in **Kolkata, India**, building practical software with a focus on **Java**, **Python**, and modern web technologies. I enjoy creating useful products, learning systems deeply, and refining my engineering craft one project at a time.
+Developer based in **Kolkata, India**, building practical software with a focus on **Java** and modern web technologies. I enjoy creating useful products, learning systems deeply, and refining my engineering craft one project at a time.
 
 &nbsp;
 
-▸ Java & Python development&ensp;&ensp;▸ Full stack web applications
+▸ Java development&ensp;&ensp;▸ Full stack web applications
 ▸ Backend architecture & clean code&ensp;&ensp;▸ Android development with Java
-▸ Learning and shipping, consistently
+▸ Database design with PostgreSQL & MongoDB&ensp;&ensp;▸ Learning and shipping, consistently
 
 </td></tr>
 </table>
@@ -50,7 +51,7 @@ Developer based in **Kolkata, India**, building practical software with a focus 
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,express,mysql,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,postgres,mongodb,docker,git&theme=dark" />
 
 </div>
 
