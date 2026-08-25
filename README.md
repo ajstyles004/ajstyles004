@@ -70,6 +70,10 @@ Developer based in **Kolkata, India**, building practical software with a focus 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajstyles004&layout=compact&theme=dark&hide_border=true&title_color=F4C95D&text_color=CBD5E1&bg_color=0F172A&cache_seconds=86400" />
 
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajstyles004&theme=react-dark&bg_color=0F172A&color=F4C95D&line=F4C95D&point=CBD5E1&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
 </div>
 
 <br/>
